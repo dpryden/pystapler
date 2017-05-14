@@ -1,0 +1,8 @@
+[MESSAGES CONTROL]
+disable=locally-disabled
+output-format=parseable
+ignored-modules=six.moves
+
+[MISCELLANEOUS]
+# Omit TODO so we don't fail the build for TODO comments.
+notes=FIXME
